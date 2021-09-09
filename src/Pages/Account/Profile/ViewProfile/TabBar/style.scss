@@ -1,0 +1,7 @@
+
+    .tab-bar {
+        display: grid !important;
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        gap: 1em;
+    }
+

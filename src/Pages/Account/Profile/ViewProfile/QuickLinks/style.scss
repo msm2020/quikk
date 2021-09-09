@@ -1,0 +1,8 @@
+.quick-links{
+    &:hover , &:active, &:focus{
+        text-decoration: none !important;
+        color: #41bb93;
+        background-color: #cbe2da;
+        border-right: 2px solid #41bb93;
+    }
+}

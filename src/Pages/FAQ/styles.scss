@@ -1,0 +1,103 @@
+
+.AccItem:last-of-type {
+    border-bottom-width: 0px !important;
+}
+
+.AccItem:first-of-type {
+    border-top-width: 0px !important;
+}
+
+
+
+.commonFAQ{
+
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    width: 100%;
+  
+  }
+
+.commonFAQ .css-kgibo9{
+    margin: 0 ;
+    padding: 0;
+    border-radius: 0.5em;
+    max-width: 52rem;
+    width: 100%;
+}
+
+.commonFAQ .css-1duxe6l{
+    color: #09ae36;    
+}
+
+.commonFAQ .css-o4mft6{
+    padding: 1rem 3.25rem 1rem 4rem;
+
+}
+
+.commonFAQ .css-o4mft6:focus{
+    box-shadow: none;
+}
+
+.faq .css-dvxtzn{
+    margin-top: 2rem;
+
+}
+
+.faq .css-i510eq {
+    max-width: 32.5rem;
+    padding: 0 0 2.5rem;
+    width: 100%;
+
+}
+
+.searchBar input{
+
+    outline: none;
+    padding: 0 2.5rem 0 4.5rem;
+
+}
+
+
+.searchBar .css-1wf4v31{
+
+    background-color: white;
+    height: 1.5rem;
+    padding-left: 0;
+    padding-right: 0;
+    min-width: 1.5rem;
+}
+
+.searchBar .css-k6882c{
+    padding-left: 2rem;
+}
+
+.closeBtn .css-1qjpqhn{
+    width: 0.75em;
+    height: 0.75em;
+}
+
+.AccItem .css-epzufu{
+
+   line-height: 1.6rem;
+    color: #3c4043;
+    padding: 1.2rem 4rem;
+    font-size: 0.9rem;
+
+}
+
+
+
+
+@media screen and (max-width: 48em)
+{
+
+    .faq .css-i510eq {
+        padding: 0 0 2.5rem;
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+  
+}
+

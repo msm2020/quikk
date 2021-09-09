@@ -1,0 +1,21 @@
+.poster{
+    background: url(../../../static/assets/other/homepage.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #757575;
+    background-blend-mode: multiply;
+    min-height: 100vh;
+
+    &-container {
+        min-height: 80vh;
+        padding: 1em;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+}
+*{
+    font-family: 'Inter', sans-serif !important;
+}

@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap");
+
+:root {
+  --primary-green: #41bb93;
+}
+
+* {
+  font-family: "Inter", sans-serif !important;
+  scroll-behavior: smooth;
+}
+
+body .loading {
+  overflow: hidden;
+}
+
+
+/**/
+.footerTerms .css-1fk3cmp{
+  text-align: center;
+
+}
+
+.searchBar .css-i510eq{
+
+  margin: 0 1rem !important;
+  padding-bottom: 2.5rem !important;
+  position: relative ;
+  width: 32.5rem !important;
+}
+
+@media (min-width: 48.1875rem){
+
+ 
+
+
+}
+
+@media screen and (min-width: 30em){
+
+  .searchBar .css-i510eq {
+
+    margin: 0 auto !important;
+    padding: 0 0 2.5rem !important;
+    
+    width: auto;
+
+  }
+
+}
+
+.colorHeader{
+  height: 30vh;
+  background-image: linear-gradient(282deg,#09ae36,#09ae36);
+  padding-top: 8.5rem;
+  position: relative;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+
+}

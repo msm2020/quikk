@@ -1,0 +1,7 @@
+.mailCard {
+    &:active, &:focus{
+        border-left: 4px solid #41bb93;
+        background-color: #ECF8F4;
+        outline: none;
+    }
+}

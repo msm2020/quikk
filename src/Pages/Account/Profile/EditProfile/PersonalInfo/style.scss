@@ -1,0 +1,49 @@
+.date-picker{
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    width: 100%;
+    padding: 0 1rem 0 1rem ;
+    height: 2.5rem;
+    background: rgb(240, 244, 247);
+}
+.css-z7lnx4{
+    border-radius: 25px !important;
+    color: #0096fa;
+}
+.css-1e2c42x{
+    border-radius: 5px !important;
+    transform: scaleY(1.1);
+}
+
+input[type=radio]:checked + .css-1e2c42x, input[type=radio][aria-checked=mixed] + .css-1e2c42x {
+    background-color: white !important;
+    border-color: #d3d3d3
+}
+.css-yk16xz-control {
+border: 1px solid rgb(169, 169, 169);
+background: rgb(240, 244, 247);
+font-weight: 500;}
+
+.stack{
+    flex-direction: row !important;
+}
+.css-nlndso {
+    margin-left: 0.5rem;
+}
+
+input[type=checkbox]:checked + .css-nlndso, input[type=checkbox][aria-checked=mixed] + .css-nlndso {
+    background-color: white;
+    border-color: #d3d3d3
+}
+.css-1vhqk79{
+    color: green !important;
+
+}
+.css-nlndso {
+transform: scale(1);
+    padding: 8px;
+    border-radius: 5px;
+}
+.radio1{
+    color:gray
+}

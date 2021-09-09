@@ -1,0 +1,98 @@
+{
+  "profile_photo": "null",
+  "resume": null,
+  "first_name": "null",
+  "last_name": "null",
+  "gender": "FEMALE",
+  "marital_status": "SINGLE",
+  "dob": "null",
+  "addresses": [
+    {
+      "address_type": "TEMPORARY",
+      "address": "null",
+      "city": "null",
+      "country": "null",
+      "state": "null",
+      "mobiles": []
+    }
+  ],
+  "job_type": "TEMPORARY",
+  "emp_type": "PARTTIME",
+  "current_salary": null,
+  "expected_salary": null,
+  "salary_negotiable": null,
+  "notice_period": "FIFTEENDAYS",
+  "notice_type": "FIXED",
+  "how_long": 2,
+  "already_serving": false,
+  "last_working_day": "null",
+  "primary_skills": ["UI UX", "Web Design"],
+  "secondary_skills": ["Animating", "Photoshop"],
+  "languages": [
+    {
+      "language_id": 14,
+      "language": "ENGLISH",
+      "proficiency": "BEGINNER",
+      "speak": true,
+      "write": false,
+      "read": false
+    }
+  ],
+  "courses": [
+    {
+      "cgpa": "null",
+      "course": "null",
+      "coursetype": "DISTANCELEARNING",
+      "specialization": "null",
+      "college_name": "null",
+      "passing_year": null,
+      "start_date": "null",
+      "end_date": "null"
+    }
+  ],
+  "professional_details": [
+    {
+      "org_name": "null",
+      "designation": "null",
+      "responsibilities": "null",
+      "start_date": "null",
+      "end_date": "null"
+    }
+  ],
+  "physically_chalngd": false,
+  "physically_chalngd_desc": "null",
+  "website_urls": [],
+  "resume_headline": "null",
+  "profile_summary": "null",
+  "projects": [
+    {
+      "project_title": "",
+      "client": "",
+      "project_employer": "",
+      "project_status": "INPROGRESS",
+      "project_details": "",
+      "employment_nature": "CONTRACTUAL",
+      "project_location": "",
+      "site": "",
+      "teamsize": 0,
+      "role": "",
+      "role_description": "",
+      "skills": [],
+      "start_date": "",
+      "end_date": ""
+    }
+  ],
+  "user": {
+    "firstname": "First name",
+    "lastname": "Last name",
+    "email": "suziejanie691@gmail.com",
+    "usertype": "CANDIDATE",
+    "companyname": null,
+    "companytype": null,
+    "enabled": true,
+    "email_verified": false,
+    "roles": []
+  },
+  "createdAt": "2021-03-05 03:06:23",
+  "updatedAt": "2021-03-05 03:08:12"
+}
